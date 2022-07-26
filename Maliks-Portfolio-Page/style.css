@@ -1,0 +1,56 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+header{
+  background-color: white;
+  height: 100px;
+}
+
+div{
+  text-align: center;
+}
+
+footer{
+  background-color:white;
+  height: 100px
+}
+
+Body{
+  background-color: lightgray;
+  margin: 50px 25px 50px 25px;
+  padding: 20px 10px 20px 10px;
+}
+p{
+  font-family:"Times New Roman", Tahoma, sans-serif;
+  color:black;
+  font-size: 14px;
+}
+
+li{
+  font-family: "Times New Roman", Tahoma, san-serif;
+  font-size:14px;
+  color: black
+}
+
+h1{
+  color: brown;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+h2{
+  color:brown;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+  color:brown;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
